@@ -1,0 +1,1 @@
+quadrato((n) => { n * n });
